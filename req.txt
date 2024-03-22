@@ -1,0 +1,5 @@
+Flask==2.0.3
+Flask-SocketIO==5.1.1
+numpy==1.22.3
+opencv-python-headless==4.5.5.64
+face_recognition==1.4.0
